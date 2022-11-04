@@ -1,4 +1,4 @@
-package com.priya.spring;
+package com.priya.spring.employee;
 
 public class Employee {
 

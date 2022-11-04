@@ -1,6 +1,5 @@
 package com.priya.spring.map;
 
-import com.priya.spring.Employee;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Test {

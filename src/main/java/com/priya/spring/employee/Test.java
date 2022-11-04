@@ -1,10 +1,6 @@
-package com.priya.spring;
+package com.priya.spring.employee;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.core.io.ClassPathResource;
-import org.springframework.core.io.Resource;
-
-import java.io.IOException;
 
 public class Test {
 public static void main(String[] args){

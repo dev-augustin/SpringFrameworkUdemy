@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean name="scores" class="com.priya.spring.refTypes.Scores">
+        <property name="maths" value="100"></property>
+        <property name="physics" value="90"/>
+        <property name="chemistry" value="98"/>
+    </bean>
+    <bean name="student" class="com.priya.spring.refTypes.Student">
+        <property name="scores">
+            <ref bean="scores"/>
+        </property>
+    </bean>
+</beans>
