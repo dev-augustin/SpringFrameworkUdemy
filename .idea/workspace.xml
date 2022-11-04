@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01ee2651-cabe-45c3-b459-ea93e9daa7b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/list/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/listConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/map/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/map/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/properties/CountriesAndLanguages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/properties/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/refTypes/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/propertiesConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/priya/spring/list/Hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/list/Hospital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +51,7 @@
       <recent name="C:\Users\raugustin\Desktop\Learning\SpringBharathThippireddy\DemoMavenProject\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.priya.spring.list.Test">
+  <component name="RunManager" selected="Application.com.priya.spring.properties.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.priya.spring.Test" />
       <module name="DemoMavenProject" />
@@ -75,8 +78,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.priya.spring.map.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.priya.spring.map.Test" />
+      <module name="DemoMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.priya.spring.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.priya.spring.properties.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.priya.spring.properties.Test" />
+      <module name="DemoMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.priya.spring.properties.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.priya.spring.properties.Test" />
+        <item itemvalue="Application.com.priya.spring.map.Test" />
         <item itemvalue="Application.com.priya.spring.list.Test" />
         <item itemvalue="Application.Test" />
       </list>
