@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01ee2651-cabe-45c3-b459-ea93e9daa7b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/lifeCycleAnnotation/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/lifeCycleAnnotation/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/lifeCycleInterfaces/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/lifeCycleInterfaces/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/lifecycle/xmlConfig/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/lifecycle/xmlConfig/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/refTypes/Scores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/refTypes/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/lifeCycleAnnotationConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/lifeCycleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/lifeCycleInterfaceConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/refTypesConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/priya/spring/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/employee/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/priya/spring/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/employee/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/priya/spring/map/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/map/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/priya/spring/refTypes/Score.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/priya/spring/refTypes/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/refTypes/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/raugustin/Desktop/Learning/SpringBharathThippireddy/DemoMavenProject/src/main/resources",
+    "last_opened_file_path": "C:/Users/raugustin/Desktop/Learning/SpringBharathThippireddy/DemoMavenProject",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
