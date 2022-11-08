@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01ee2651-cabe-45c3-b459-ea93e9daa7b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/dependencyCheck/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/innerbeans/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/innerbeans/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/innerbeans/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/refTypes/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/dependencyCheckConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/innerbeansConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/priya/spring/dependencycheck/Prescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/dependencyCheck/Prescription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/priya/spring/refTypes/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/refTypes/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/priya/spring/refTypes/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priya/spring/refTypes/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/refTypesConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/refTypesConfig.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +47,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/raugustin/Desktop/Learning/SpringBharathThippireddy/DemoMavenProject",
+    "last_opened_file_path": "C:/Users/raugustin/Desktop/Learning/SpringBharathThippireddy/DemoMavenProject/src/main/resources",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="innerbeans" />
       <recent name="com.priya.spring.refTypes" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -52,14 +64,30 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\raugustin\Desktop\Learning\SpringBharathThippireddy\DemoMavenProject\src\main\resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.priya.spring.dependencycheck" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.com.priya.spring.lifeCycleAnnotation.Test">
+  <component name="RunManager" selected="Application.com.priya.spring.dependencyCheck.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.priya.spring.lifeCycleInterfaces.Test" />
       <module name="DemoMavenProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.priya.spring.lifeCycleInterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.priya.spring.dependencyCheck.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.priya.spring.dependencyCheck.Test" />
+      <module name="DemoMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.priya.spring.dependencyCheck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,19 +121,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.priya.spring.properties.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.priya.spring.properties.Test" />
-      <module name="DemoMavenProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.priya.spring.properties.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.priya.spring.refTypes.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.priya.spring.refTypes.Test" />
       <module name="DemoMavenProject" />
@@ -121,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.priya.spring.dependencyCheck.Test" />
         <item itemvalue="Application.com.priya.spring.lifeCycleAnnotation.Test" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.com.priya.spring.lifecycle.xmlConfig.Test" />
         <item itemvalue="Application.com.priya.spring.refTypes.Test" />
-        <item itemvalue="Application.com.priya.spring.properties.Test" />
       </list>
     </recent_temporary>
   </component>
